@@ -125,7 +125,6 @@ Device::BuiltinAction Device::InvokeMenuItem(size_t menu_position) {
       default:
         break;
     }
-    action = Device::BuiltinAction::NO_ACTION;
     PopulateMenuItems();
   }
   return action;

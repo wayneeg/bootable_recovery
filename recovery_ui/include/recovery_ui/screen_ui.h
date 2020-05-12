@@ -148,7 +148,7 @@ class TextMenu : public Menu {
   size_t MenuEnd() const;
 
   // Menu example:
-  // info:                           ColtOS Recovery
+  // info:                           LegionOS Recovery
   //                                 ....
   // help messages:                  Swipe up/down to move
   //                                 Swipe left/right to select
